@@ -9,8 +9,8 @@ Come Installare:
  3. Aggiungere la linea "ensure nik-FirstAim" al vostro config.cfg 
  4. Profit
  
- Config.lua
- Qui sono inserite le armi che entrano in visuale prima persona, potete aggiungere o rimuovere quelle che preferite a vostro piacimento
+ Nel Config trovate inserite le armi che entrano in visuale prima persona, potete aggiungere o rimuovere quelle che preferite a vostro piacimento
+ 
  ---
  Per contributi e problemi aprite pure una PR
 
